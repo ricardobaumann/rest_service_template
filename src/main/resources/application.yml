@@ -1,0 +1,8 @@
+spring:
+  profiles: default
+
+server:
+  port: 8080
+
+config:
+  message: hello
